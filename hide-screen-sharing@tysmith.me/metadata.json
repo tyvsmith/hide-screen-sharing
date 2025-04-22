@@ -1,0 +1,10 @@
+{
+  "name": "Hide Screen Sharing",
+  "description": "Hide Screen Sharing. Useful for software KVMs that always show screen sharing like Desk Flow, Input-Leap, Barrier, etc...",
+  "uuid": "hide-screen-sharing@tysmith.me",
+  "shell-version": [
+    "46",
+    "47",
+    "48"
+  ]
+}
